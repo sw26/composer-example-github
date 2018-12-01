@@ -1,0 +1,7 @@
+puphpet/
+composer.phar
+.vagrant/
+Vagrantfile
+index.php
+puphpet.zip
+.gitattributes
